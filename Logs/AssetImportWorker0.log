@@ -190,3 +190,28 @@ Received Import Request.
   path: Assets/Scenes/Exhibit_POWERHOUSE.unity
   artifactKey: Guid(43ac7857d8b16b54db59dc4fa605cbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Exhibit_POWERHOUSE.unity using Guid(43ac7857d8b16b54db59dc4fa605cbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f69476cd09dbf94d3d1eef1caf21bc0') in 0.048558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1204.476417 seconds.
+  path: Assets/Scenes/PuzzelONE.unity
+  artifactKey: Guid(5a1a7b02131ea944592bd51b331a476a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PuzzelONE.unity using Guid(5a1a7b02131ea944592bd51b331a476a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2943101924a72af1f27dd06cf3769144') in 0.014190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 121.363482 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a4034d3d715da871e781da702f0bc5') in 0.137807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.216876 seconds.
+  path: Assets/Background
+  artifactKey: Guid(b9c4f6cb3f820d1419fd2c8083463924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Background using Guid(b9c4f6cb3f820d1419fd2c8083463924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3437eb40186d344ecb34566058dc0499') in 0.026204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 88.608982 seconds.
+  path: Assets/BackgroundImages
+  artifactKey: Guid(b9c4f6cb3f820d1419fd2c8083463924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackgroundImages using Guid(b9c4f6cb3f820d1419fd2c8083463924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca239edf3a6d23115c33f15891ff3df') in 0.134996 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
