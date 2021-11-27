@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.13f1 (a03098edbbe0) revision 10498200'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16334 MB
+OS: 'Windows 10 Pro; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 32704 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,115 +11,115 @@ C:\Program Files\Unity\Hub\Editor\2021.1.13f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/UniBackup/Year 3-2021/Game Design Princeples/Theproject/VersionOfPointAndClick
+C:/Users/SILEN/Documents/GitHub/VersionOfPointAndClick
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52385
-Successfully changed project path to: D:/UniBackup/Year 3-2021/Game Design Princeples/Theproject/VersionOfPointAndClick
-D:/UniBackup/Year 3-2021/Game Design Princeples/Theproject/VersionOfPointAndClick
+57033
+Successfully changed project path to: C:/Users/SILEN/Documents/GitHub/VersionOfPointAndClick
+C:/Users/SILEN/Documents/GitHub/VersionOfPointAndClick
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 313.93 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 123.78 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.13f1 (a03098edbbe0)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/UniBackup/Year 3-2021/Game Design Princeples/Theproject/VersionOfPointAndClick/Assets
+[Subsystems] Discovering subsystems at path C:/Users/SILEN/Documents/GitHub/VersionOfPointAndClick/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon RX 5700 (ID=0x731f)
+    Renderer: Radeon RX 580 Series (ID=0x67df)
     Vendor:   ATI
-    VRAM:     8151 MB
-    Driver:   30.0.13017.1004
+    VRAM:     8171 MB
+    Driver:   30.0.13025.5005
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008050 seconds.
+Registered in 0.003679 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 329.31 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 123.28 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.396 seconds
+- Completed reload, in  1.704 seconds
 Domain Reload Profiling:
-	ReloadAssembly (4397ms)
-		BeginReloadAssembly (201ms)
+	ReloadAssembly (1704ms)
+		BeginReloadAssembly (72ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2ms)
-		EndReloadAssembly (1517ms)
-			LoadAssemblies (191ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (585ms)
+			LoadAssemblies (68ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (492ms)
+			SetupTypeCache (201ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (129ms)
-			SetupLoadedEditorAssemblies (736ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (290ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (26ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (330ms)
-				BeforeProcessingInitializeOnLoad (4ms)
-				ProcessInitializeOnLoadAttributes (288ms)
-				ProcessInitializeOnLoadMethodAttributes (87ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (123ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (119ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.028046 seconds.
+Registered in 0.009415 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\UniBackup\Year 3-2021\Game Design Princeples\Theproject\VersionOfPointAndClick\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\UniBackup\Year 3-2021\Game Design Princeples\Theproject\VersionOfPointAndClick\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\SILEN\Documents\GitHub\VersionOfPointAndClick\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\SILEN\Documents\GitHub\VersionOfPointAndClick\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 310.82 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 123.93 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.047 seconds
+- Completed reload, in  1.593 seconds
 Domain Reload Profiling:
-	ReloadAssembly (4049ms)
-		BeginReloadAssembly (542ms)
+	ReloadAssembly (1593ms)
+		BeginReloadAssembly (190ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (48ms)
-		EndReloadAssembly (3314ms)
-			LoadAssemblies (302ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (1316ms)
+			LoadAssemblies (124ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1055ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (172ms)
-			SetupLoadedEditorAssemblies (1491ms)
+			SetupTypeCache (448ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (558ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (11ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (311ms)
-				BeforeProcessingInitializeOnLoad (258ms)
-				ProcessInitializeOnLoadAttributes (815ms)
-				ProcessInitializeOnLoadMethodAttributes (60ms)
-				AfterProcessingInitializeOnLoad (35ms)
-				EditorAssembliesLoaded (1ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (124ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (285ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (21ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
-Refreshing native plugins compatible for Editor in 1.67 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3668 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 137.3 MB.
-System memory in use after: 137.3 MB.
+System memory in use before: 136.0 MB.
+System memory in use after: 136.2 MB.
 
-Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4113.
-Total: 7.691700 ms (FindLiveObjects: 0.569300 ms CreateObjectMapping: 0.335600 ms MarkObjects: 6.427800 ms  DeleteObjects: 0.355700 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4117.
+Total: 4.597700 ms (FindLiveObjects: 0.367200 ms CreateObjectMapping: 0.098500 ms MarkObjects: 4.048800 ms  DeleteObjects: 0.080700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -133,7 +133,30 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/test
-  artifactKey: Guid(076c4d9dccd744d4f8fa9d841a35bb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/test using Guid(076c4d9dccd744d4f8fa9d841a35bb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216f405f68390cc348d9b81cbe317638') in 0.032814 seconds 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+  path: Assets/BackgroundImages/hall1.PNG
+  artifactKey: Guid(9232513c0917cb0478c73954c4efabbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackgroundImages/hall1.PNG using Guid(9232513c0917cb0478c73954c4efabbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6f26a027c603f13c9195f6f19f5e57') in 0.189225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/BackgroundImages/hallback.PNG
+  artifactKey: Guid(0ed50a7ae23893942982333bc1789d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackgroundImages/hallback.PNG using Guid(0ed50a7ae23893942982333bc1789d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0bd8c97b336587a81dee30d8503f2a7') in 0.033121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/BackgroundImages/hall2.PNG
+  artifactKey: Guid(936f77255841e18438cae3d1ccb87c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackgroundImages/hall2.PNG using Guid(936f77255841e18438cae3d1ccb87c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0295d7238f2600024108241a2eba8dae') in 0.020220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/BackgroundImages/hall3.PNG
+  artifactKey: Guid(a68bb05358ec2064fbf3faed3bb41f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackgroundImages/hall3.PNG using Guid(a68bb05358ec2064fbf3faed3bb41f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18075fdce8b405497cf2fa0a9ba5f7e8') in 0.044371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/BackgroundImages/hallturnright.PNG
+  artifactKey: Guid(c952198fbd8271d4c8d044849c31ec4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BackgroundImages/hallturnright.PNG using Guid(c952198fbd8271d4c8d044849c31ec4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842f58025fea0cefc363989d611d526d') in 0.034359 seconds 
