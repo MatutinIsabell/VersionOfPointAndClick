@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MuseumEntry.unity
     guid: 0f8dd7889ca4f5448a4efb7c25c7d26b
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: 81608e6e20569c74da8f03c02732bbfd
+  - enabled: 1
+    path: Assets/Scenes/Exhibit_ARTGALLARY.unity
+    guid: 5e117d28fedc935458db04f343c95aa0
+  - enabled: 1
+    path: Assets/Scenes/PuzzelONE.unity
+    guid: 5a1a7b02131ea944592bd51b331a476a
   m_configObjects: {}
